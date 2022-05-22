@@ -6,6 +6,6 @@ My first tryout with JS puppeeters webscraping. I've used it to access NASA's im
 
 If you want to try it one:
 close this repo,
-certify that you have npm install,
-run npm install,
-then npm run start or node index.js in that directory
+certify that you have npm installed,
+run 'npm install',
+then run 'npm run start' or 'node index.js' in that directory
